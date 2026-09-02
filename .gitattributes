@@ -1,2 +1,2 @@
-windows/runner/main.cpp
-linux/runner/main.ccs
+windows/** linguist-vendored
+linux/** linguist-vendored
